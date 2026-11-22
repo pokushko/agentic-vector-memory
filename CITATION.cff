@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "Agentic Vector Memory"
+version: "1.0.0"
+date-released: "2026-11-22"
+license: MIT
+url: "https://pokushko.github.io"
+repository-code: "https://github.com/pokushko/agentic-vector-memory"
+authors:
+  - family-names: Pokushko
+    given-names: Roman
+    orcid: "https://orcid.org/0000-0003-1073-6655"
+    affiliation: "EvoNova Labs / Siberian Federal University"
+preferred-citation:
+  type: article
+  title: "EvoNova Scientist: A Neuro-Symbolic Multi-Agent Framework for Physical Constraint-Preserving Autonomous Scientific Discovery"
+  authors:
+    - family-names: Pokushko
+      given-names: Roman V.
+      orcid: "https://orcid.org/0000-0003-1073-6655"
+    - family-names: Pokushko
+      given-names: Maria V.
+  year: 2026
+  doi: "10.5281/zenodo.23942797"
+  url: "https://doi.org/10.5281/zenodo.23942797"
