@@ -3,7 +3,7 @@ import math
 import json
 import sqlite3
 from pathlib import Path
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass
 from typing import List, Dict, Any, Optional, Tuple
 import numpy as np
 

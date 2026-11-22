@@ -3,7 +3,6 @@ Quickstart Example for Agentic Vector Memory 🧠💾
 Demonstrating episodic insertion, temporal decay retrieval, and compaction.
 """
 
-import numpy as np
 from vector_memory import EpisodicVectorStore
 
 def main():

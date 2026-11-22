@@ -1,12 +1,10 @@
 import sys
 import time
 from pathlib import Path
-import pytest
-import numpy as np
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from vector_memory.core import EpisodicVectorStore, MemoryRecord
+from vector_memory.core import EpisodicVectorStore
 
 def test_add_and_exact_vector_retrieval():
     store = EpisodicVectorStore(dimension=4, alpha=1.0)
